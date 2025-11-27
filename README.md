@@ -1,2 +1,3 @@
 # Servers_games
-colaboration with Dlopez there is Multigames servers, using Rocky 9 as SO, Diferents providers of server, Docker, and duck DNS just for fun
+colaboration with Dlopez there is Multigames servers, using Rocky 9 as SO, Diferents providers of server, Docker, and duck DNS just for fun.
+Is a selfhosting using old servers using Proxmox for virtualization
